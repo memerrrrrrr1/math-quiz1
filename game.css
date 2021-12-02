@@ -1,0 +1,10 @@
+body{
+    background-color: skyblue;
+}
+
+#div1, #div2{
+    float: none;
+    background-color:lightgreen;
+    border-radius: 15px;
+    padding: 10px;
+}
